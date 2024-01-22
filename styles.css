@@ -30,3 +30,10 @@ form button {
 
 
  
+header {
+    background-color:  teal;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+
+}
