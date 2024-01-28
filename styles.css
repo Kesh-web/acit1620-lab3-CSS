@@ -1,13 +1,15 @@
 html,
 body {
-    margin: 0;
-    padding: 0;
+    margin: 1;
+    padding: 1;
     height: 100%;
+    
 }
 
 form {
     border: 1px solid #ccc;
     padding: 1rem;
+    
 }
 
 input,
@@ -32,8 +34,38 @@ form button {
  
 header {
     background-color:  teal;
-    color: white;
+    color: black;
     padding: 1rem;
     text-align: center;
+
+}
+
+footer {
+background-color: teal;
+    width: 100%;
+color: white;
+padding: 1rem;
+text-align: center;
+
+}
+
+#link{
+
+width: 150px;
+height: 150px;
+
+}
+
+
+main{
+
+float:1
+
+}
+
+#list1{
+width: 200px;
+
+
 
 }
